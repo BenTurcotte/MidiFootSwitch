@@ -1,0 +1,4 @@
+{
+    "sketch": "MidiFootSwitch.ino",
+    "board": "arduino:avr:uno"
+}
